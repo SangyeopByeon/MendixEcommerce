@@ -1,9 +1,13 @@
 <h1>ecommerce-app</h1>
-<br>
-
-
-
-<br>
+<br>* 로그인 / 회원가입 기능<br>
+<br>* 회원관리 기능<br>
+<br>* 엑셀 임포터 기능<br>
+<br>* 데이터 리스트 뷰<br>
+<br>* 마이페이지 이미지 업로드 / 수정 <br>
+<br>* 마이페이지 구매 목록 실시간 반영<br>
+<br>* 상품 페이지(카테고리, 가격 범위 설정, 마우스 이벤트)<br>
+<br>* 상품 상세 페이지<br>
+<br>* 상품 구매 내역 실시간 반영<br>
 
 ![login](https://user-images.githubusercontent.com/105576059/198181000-32b346d5-d7fd-4632-bcec-9c34446d3cbc.PNG)
 ![register](https://user-images.githubusercontent.com/105576059/198181022-aca4cb90-2b8b-43ae-b234-9f72b88bac75.PNG)
